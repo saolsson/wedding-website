@@ -1,10 +1,10 @@
 const details = {
-  couple: 'Alex & Sam',
-  date: 'Saturday, June 20, 2027',
+  couple: 'Kerkira & Spencer',
+  date: 'Saturday, October 16, 2027',
   time: '4:00 PM',
-  venue: 'The Garden Venue',
-  address: '123 Main Street, Stockholm',
-  rsvpEmail: 'rsvp@example.com',
+  venue: 'Elks Lodge,
+  address: '711 Jenifer St, Madison, WI 53703',
+  rsvpEmail: 'kerkiraspencer@example.com',
 }
 
 export default function App() {
