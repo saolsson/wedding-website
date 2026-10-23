@@ -2,7 +2,7 @@ const details = {
   couple: 'Kerkira & Spencer',
   date: 'Saturday, October 16, 2027',
   time: '4:00 PM',
-  venue: 'Elks Lodge,
+  venue: 'Elks Lodge',
   address: '711 Jenifer St, Madison, WI 53703',
   rsvpEmail: 'kerkiraspencer@example.com',
 }
