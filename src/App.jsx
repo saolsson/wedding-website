@@ -4,7 +4,7 @@ const details = {
   time: '4:00 PM',
   venue: 'Elks Lodge',
   address: '711 Jenifer St, Madison, WI 53703',
-  rsvpEmail: 'kerkiraspencer@example.com',
+  rsvpEmail: 'kerkiraspencer@gmail.com',
 }
 
 export default function App() {
