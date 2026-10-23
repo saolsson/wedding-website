@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', serif;
+  color: #333;
+  background: #fdfaf6;
+  line-height: 1.6;
+}
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+header {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e5ddd3;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-size: 0.85rem;
+  color: #8a7967;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: normal;
+  margin: 0.5rem 0;
+}
+
+h2 {
+  font-weight: normal;
+  color: #8a7967;
+}
+
+section {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #e5ddd3;
+}
+
+a {
+  color: #8a7967;
+}
+
+footer {
+  padding-top: 2rem;
+  font-style: italic;
+}
